@@ -27,26 +27,26 @@ project_entries:
 #    highlight: WIP
 
 old_project_entries:
-  - title: Jialin Qi, Zheng Zhang, Xiwang Dong, Jianglong Yu, Qingdong Li, Hong Jiang, Zhang Ren,”Time-varying formation tracking control for multi-agent systems using distributed multi-sensor multi-target filtering”
+  - title: Time-varying formation tracking control for multi-agent systems using distributed multi-sensor multi-target filtering
     url: /paper001
-    desc:
-    highlight: NEW
+    desc: Jialin Qi, Zheng Zhang, Xiwang Dong, Jianglong Yu, Qingdong Li, Hong Jiang, Zhang Ren
+#    highlight: NEW
 
-  - title: Jialin Qi, Zheng Zhang, Jin Dong, Jiang Hong, Xiwang Dong, Jianglong Yu, Zhang Ren, ”Event-Triggered Distributed Multisensor Multitarget Tracking with GM-PHD Filter”， International Conference on Guidance, Navigation and Control
+  - title: Event-Triggered Distributed Multisensor Multitarget Tracking with GM-PHD Filter
     url: /paper002
-    desc:
+    desc: Jialin Qi, Zheng Zhang, Jin Dong, Jiang Hong, Xiwang Dong, Jianglong Yu, Zhang Ren
 
-  - title: Jialin Qi, Zheng Zhang, Xiwang Dong, Jianglong Yu, Qingdong Li, Hong Jiang, Zhang Ren, ”Time-varying formation tracking with distributed multi-sensor multi-target filtering”（Under review），The 2023 INT´L Conference on Unmanned Aircaraft Systems
+  - title: Time-varying formation tracking with distributed multi-sensor multi-target filtering
     url: /paper003
-    desc:
+    desc: Jialin Qi, Zheng Zhang, Xiwang Dong, Jianglong Yu, Qingdong Li, Hong Jiang, Zhang Ren
 
-  - title: 戚佳琳,张政,李清东,董希旺,蒋宏,任章,韩亮,于江龙,化永朝, ”基于PLKF的异质传感器分布式协同探测方法[J]”.战术导弹技术.
+  - title: 基于PLKF的异质传感器分布式协同探测方法
     url: /paper004
-    desc:
+    desc: 戚佳琳,张政,李清东,董希旺,蒋宏,任章,韩亮,于江龙,化永朝
 
-  - title: Yu Sun,Jialin Qi ,Zheng Zhang ,Hong Jiang,Xiwang Dong, Qingdong Li, Zhang Ren, ”带有事件触发器的强跟踪容积卡尔曼分布式估计”， International Conference on Guidance, Navigation and Control
+  - title: 带有事件触发器的强跟踪容积卡尔曼分布式估计
     url: /paper005
-    desc:
+    desc: Yu Sun,Jialin Qi ,Zheng Zhang ,Hong Jiang,Xiwang Dong, Qingdong Li, Zhang Ren
 
 footer_entries:
   - title: homepage
