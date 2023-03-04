@@ -2,7 +2,7 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
+  - title: project
     url: blog
 
   - title: github
