@@ -1,0 +1,117 @@
+navbar_entries:
+  - title: about
+    url: about
+
+  - title: blog
+    url: blog
+
+  - title: github
+    url: https://github.com/
+
+project_entries:
+  - title: Perception of the threat degree of multi-target
+    url: /p01
+    desc: Mainly about the recognition, state estimation and threat degree estimation of multi-target basing on the interaction of human and computer
+
+  - title: Distributed target tracking with switching communication topology
+    url: /p02
+    desc:  Switch the communication topology between sensors to make sure that target can be tracked accurately in the environment of communication interference.
+
+  - title: Target tracking by passive sensor
+    url: /p03
+    desc: Estimate the state of maneuvering target by PLKF filtering algorithm, using the changes of angle observed by multiple passive sensors.
+
+  - title: Undergraduate thesis
+    url: /p04
+    desc: UAV navigation point positioning method based on scene matching
+#    highlight: WIP
+
+old_project_entries:
+  - title: Soopr
+    url: https://www.soopr.co
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    highlight: NEW
+
+  - title: Cookie
+    url: https://github.com/abhinavs/cookie
+    desc: An open source landing website with supporting pages and integrated blog
+
+  - title: Moonwalk
+    url: https://github.com/abhinavs/moonwalk
+    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+
+  - title: Humangous
+    url: https://www.humangous.co
+    desc: The better people know you, the better they collaborate
+
+footer_entries:
+  - title: homepage
+    url: /
+
+  - title: twitter
+    url: https://twitter.com/abhinav
+
+  - title: github
+    url: https://github.com/abhinavs
+
+  - title: feed
+    url: feed.xml
+
+misc_entries:
+#  - title: this is an example vertical list
+#    url: false
+#
+#  - title: you can show or hide using a boolean flag in _config.yml
+#    url: false
+#
+#  - title: and you can add data in _data/home.yml
+#    url: false
+
+#  - title: Blog posts
+#    post_list: true
+#    url: false
+
+  - title: Jialin Qi, Zheng Zhang, Xiwang Dong, Jianglong Yu, Qingdong Li, Hong Jiang, Zhang Ren,”Time-varying formation tracking control for multi-agent systems using distributed multi-sensor multi-target filtering”
+    url: false
+#    entries:
+#      - title: Time-varying formation tracking control problems for multi-agent systems using distributed multi-sensor multi-target filtering are investigated. In order to obtain the accurate state estimations of targets, a distributed multi-sensor multi-target filtering algorithm based on the cubature Kalman filter scheme and multiple heterogeneous sensors is proposed. Then, the state estimations obtained by the filtering algorithm are used to design a time-varying formation tracking protocol for multi-agent systems, enabling these systems to form a time-varying formation and track the convex combination of multiple targets. The estimation errors of filtering algorithm are proved to be bounded by introducing a stochastic process and the boundedness of the formation tracking errors is further proved by using the properties of the Laplacian matrix. Finally, the effectiveness of the proposed algorithm is illustrated by simulation experiments.
+#        url: false
+
+  - title: Jialin Qi, Zheng Zhang, Jin Dong, Jiang Hong, Xiwang Dong, Jianglong Yu, Zhang Ren, ”Event-Triggered Distributed Multisensor Multitarget Tracking with GM-PHD Filter”， International Conference on Guidance, Navigation and Control
+    url: false
+#    entries:
+#      - title: This paper focuses on a distributed event-triggered Gaussian mixture probability hypothesis density (GM-PHD) filtering algorithm. With this algorithm, sensors transmit their Gaussian components to their neighbors  basing on the event-triggering conditions, and finally perform certain times fusion by matrix reformulation. The existence of the upper bound of the filtering error covariance is proved and the upper bound can be minimized by designing the filtering parameter at each time instant properly. This algorithm can reduce data transmission and energy consumption significantly without compromising the expected estimation performance. Simulation experiment evaluates the performance of the proposed algorithm.
+#        url: false
+
+  - title: Jialin Qi, Zheng Zhang, Xiwang Dong, Jianglong Yu, Qingdong Li, Hong Jiang, Zhang Ren, ”Time-varying formation tracking with distributed multi-sensor multi-target filtering”（Under review），The 2023 INT´L Conference on Unmanned Aircaraft Systems
+    url: false
+#    entries:
+#      - title: Formation tracking is used widely in targets enclosing, monitoring and striking, however, in practical scenes, the targets are always uncooperative. In this paper, the problem of time-varying formation tracking for multiagent with multi-target which states are unknown is studied. In order to obtain the accurate state estimations of targets, a distributed multi-sensor multi-target filtering algorithm based on the cubature Kalman filter scheme and multiple heterogeneous sensors is proposed. Then, the state estimations obtained by the filtering algorithm are used to design a time-varying formation tracking protocol for multiagent, enabling multiagent to form a time-varying formation and track the convex combination of targets. Finally, the effectiveness of the proposed algorithm is illustrated by simulation experiments.
+#        url: false
+
+  - title: 戚佳琳,张政,李清东,董希旺,蒋宏,任章,韩亮,于江龙,化永朝, ”基于PLKF的异质传感器分布式协同探测方法[J]”.战术导弹技术.
+    url: false
+
+  - title: Yu Sun,Jialin Qi ,Zheng Zhang ,Hong Jiang,Xiwang Dong, Qingdong Li, Zhang Ren, ”带有事件触发器的强跟踪容积卡尔曼分布式估计”， International Conference on Guidance, Navigation and Control
+    url: false
+
+#
+#  - title: Jialin Qi, Zheng Zhang, Xiwang Dong, Jianglong Yu, Qingdong Li, Hong Jiang, Zhang Ren,”Time-varying formation tracking control for multi-agent systems using distributed multi-sensor multi-target filtering”
+#    url: false
+#    entries:
+#      - title: on Github
+#        url: https://github.com/abhinavs/moonwalk
+#
+#      - title: originally built for abhinav's homepage
+#        url: https://www.abhinav.co
+#
+#      - title: this list is scalable and can be nested
+#        url: false
+#        entries:
+#          - title: this is nested inside a nested list
+#            url: false
+#
+#          - title: it is easy to use, see _data/home.yml to see how to configure it.
+#            url: false
+#
+
