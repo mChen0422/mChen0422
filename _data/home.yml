@@ -6,7 +6,7 @@ navbar_entries:
     url: blog
 
   - title: github
-    url: https://github.com/
+    url: https://github.com/ZhangYuYuY
 
 project_entries:
   - title: Perception of the threat degree of multi-target
@@ -27,32 +27,36 @@ project_entries:
 #    highlight: WIP
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+  - title: Jialin Qi, Zheng Zhang, Xiwang Dong, Jianglong Yu, Qingdong Li, Hong Jiang, Zhang Ren,”Time-varying formation tracking control for multi-agent systems using distributed multi-sensor multi-target filtering”
+    url: /paper001
+    desc:
     highlight: NEW
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: Jialin Qi, Zheng Zhang, Jin Dong, Jiang Hong, Xiwang Dong, Jianglong Yu, Zhang Ren, ”Event-Triggered Distributed Multisensor Multitarget Tracking with GM-PHD Filter”， International Conference on Guidance, Navigation and Control
+    url: /paper002
+    desc:
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+  - title: Jialin Qi, Zheng Zhang, Xiwang Dong, Jianglong Yu, Qingdong Li, Hong Jiang, Zhang Ren, ”Time-varying formation tracking with distributed multi-sensor multi-target filtering”（Under review），The 2023 INT´L Conference on Unmanned Aircaraft Systems
+    url: /paper003
+    desc:
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: 戚佳琳,张政,李清东,董希旺,蒋宏,任章,韩亮,于江龙,化永朝, ”基于PLKF的异质传感器分布式协同探测方法[J]”.战术导弹技术.
+    url: /paper004
+    desc:
+
+  - title: Yu Sun,Jialin Qi ,Zheng Zhang ,Hong Jiang,Xiwang Dong, Qingdong Li, Zhang Ren, ”带有事件触发器的强跟踪容积卡尔曼分布式估计”， International Conference on Guidance, Navigation and Control
+    url: /paper005
+    desc:
 
 footer_entries:
   - title: homepage
     url: /
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/python
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/ZhangYuYuY
 
   - title: feed
     url: feed.xml
