@@ -1,10 +1,10 @@
 title: Background
 author: Qijia Lin
 url: https://ZhangYuYuY.github.io # root address of the site
-description: > # description of the site (multiple lines allowed)
-    Qijia Lin </br>
+top_title: >
     Master Student Beihang University </br>
     Research Interests: target tracking, distributed state estimation, formation control of multi-agent systems. </br>
+description: > # description of the site (multiple lines allowed)
     Greetings! I am currently a second-year master student in the School of Automation Science and Electrical Engineering at Beihang University, advised by Prof. Zhang Ren and Prof. Xiwang Dong. My research interests are in the intersection of perception and control science. </br>
     I received a B. Eng. in Automation from Shandong University in 2021. Please refer to my CV for more information.
 permalink: /:slug
