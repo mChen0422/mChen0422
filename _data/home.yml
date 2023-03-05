@@ -42,7 +42,7 @@ old_project_entries:
 
   - title: 基于PLKF的异质传感器分布式协同探测方法
     url: /paper004
-    desc: 戚佳琳,张政,李清东,董希旺,蒋宏,任章,韩亮,于江龙,化永朝
+    desc: Jialin Qi, Zheng Zhang, Xiwang Dong, Hong Jiang, Zhang Ren, Jianglong Yu, Yongchao Hua. “Distributed cooperative detection method of heterogeneous sensors based on PLKF”, Tactical Missile Technology.
 
   - title: 带有事件触发器的强跟踪容积卡尔曼分布式估计
     url: /paper005
