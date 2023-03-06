@@ -213,3 +213,22 @@ p code, li code {
   text-transform: lowercase;
   //border: 1px solid var(--text-secondary);
 }
+
+.author-card{
+  display: flex;
+}
+
+.author-card-left{
+  flex: 1;
+  margin-right: 2em;
+  img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin-top: 30px;
+  }
+}
+
+.author-card-right{
+  flex: 3;
+}

@@ -8,12 +8,16 @@ layout: default
   <div class="dashed"></div>
 {% endif %}
 
-  <h1>
-    {{ site.author }}
-  </h1>
-
-  <div>
-    {{ site.top_title }}
+  <div class="author-card">
+    <div class="author-card-left">
+      <img src="{{ site.avatar }}" alt="avatar" />
+    </div>
+    <div class="author-card-right">
+      <h1>
+        {{ site.author }}
+      </h1>
+      {{ site.top_title }}
+    </div>
   </div>
 
   <h2>{{ site.title }}</h2>

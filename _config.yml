@@ -1,6 +1,7 @@
 title: Background
 author: QIJIA LIN
 url: https://ZhangYuYuY.github.io # root address of the site
+avatar: "/assets/images/index/avatar.png" # relative path to site's avatar
 top_title: >
     Master Student in Beihang University </br>
     Research Interests: target tracking, distributed state estimation, formation control of multi-agent systems. </br>
