@@ -1,3 +1,4 @@
+# 顶部导航栏链接，可以无限制添加，注意格式就行
 navbar_entries:
   - title: about
     url: about
@@ -8,6 +9,7 @@ navbar_entries:
   - title: github
     url: https://github.com/mChen0422
 
+# 项目放块列表 标题，跳转地址，描述。对应projects那块。也可以无限添加。保持格式一致就可以，可以添加highlight树型，为高亮标签
 project_entries:
   - title: project demo 001
     url: /p01
@@ -24,8 +26,9 @@ project_entries:
   - title: project demo 002
     url: /p01
     desc: project demo 002 desc
-#    highlight: WIP
+    highlight: WIP
 
+# 和projects类似，写法一样，对应页面paper那块。在总的配置文件里可以设置这块包括其他模块的显示与隐藏
 old_project_entries:
   - title: Paper demo 001
     url: /paper001
@@ -40,6 +43,7 @@ old_project_entries:
     url: /paper003
     desc:  Paper demo 003 desc
 
+# 主页最底部的链接，可修改和添加，注意格式
 footer_entries:
   - title: homepage
     url: /
@@ -53,6 +57,7 @@ footer_entries:
   - title: feed
     url: feed.xml
 
+# 最下面的那一块misc，可以按照这种格式修改添加
 misc_entries:
 #  - title: this is an example vertical list
 #    url: false
