@@ -9,44 +9,36 @@ navbar_entries:
     url: https://github.com/ZhangYuYuY
 
 project_entries:
-  - title: Perception of the threat degree of multi-target
+  - title: project demo 001
     url: /p01
-    desc: Mainly about the recognition, state estimation and threat degree estimation of multi-target basing on the interaction of human and computer
+    desc: project demo 001 desc
 
-  - title: Distributed target tracking with switching communication topology
-    url: /p02
-    desc:  Switch the communication topology between sensors to make sure that target can be tracked accurately in the environment of communication interference.
-
-  - title: Target tracking by passive sensor
-    url: /p03
-    desc: Estimate the state of maneuvering target by PLKF filtering algorithm, using the changes of angle observed by multiple passive sensors.
-
-  - title: Undergraduate thesis
-    url: /p04
-    desc: UAV navigation point positioning method based on scene matching
+  - title: project demo 004
+    url: /p01
+    desc: project demo 004 desc
+    
+  - title: project demo 003
+    url: /p01
+    desc: project demo 003 desc
+    
+  - title: project demo 002
+    url: /p01
+    desc: project demo 002 desc
 #    highlight: WIP
 
 old_project_entries:
-  - title: Time-varying formation tracking control for multi-agent systems using distributed multi-sensor multi-target filtering
+  - title: Paper demo 001
     url: /paper001
-    desc: Jialin Qi, Zheng Zhang, Xiwang Dong, Jianglong Yu, Qingdong Li, Hong Jiang, Zhang Ren
+    desc: Paper demo 001 desc
 #    highlight: NEW
 
-  - title: Event-Triggered Distributed Multisensor Multitarget Tracking with GM-PHD Filter
+  - title: Paper demo 002
     url: /paper002
-    desc: Jialin Qi, Zheng Zhang, Jin Dong, Jiang Hong, Xiwang Dong, Jianglong Yu, Zhang Ren
+    desc: Paper demo 002 desc
 
-  - title: Time-varying formation tracking with distributed multi-sensor multi-target filtering
+  - title: Paper demo 003
     url: /paper003
-    desc: Jialin Qi, Zheng Zhang, Xiwang Dong, Jianglong Yu, Qingdong Li, Hong Jiang, Zhang Ren
-
-  - title: Distributed cooperative detection method of heterogeneous sensors based on PLKF”, Tactical Missile Technology.
-    url: /paper004
-    desc: Jialin Qi, Zheng Zhang, Xiwang Dong, Hong Jiang, Zhang Ren, Jianglong Yu, Yongchao Hua
-
-  - title: 带有事件触发器的强跟踪容积卡尔曼分布式估计
-    url: /paper005
-    desc: Yu Sun,Jialin Qi ,Zheng Zhang ,Hong Jiang,Xiwang Dong, Qingdong Li, Zhang Ren
+    desc:  Paper demo 003 desc
 
 footer_entries:
   - title: homepage
