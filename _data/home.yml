@@ -85,8 +85,8 @@ misc_entries:
 #      - title: Formation tracking is used widely in targets enclosing, monitoring and striking, however, in practical scenes, the targets are always uncooperative. In this paper, the problem of time-varying formation tracking for multiagent with multi-target which states are unknown is studied. In order to obtain the accurate state estimations of targets, a distributed multi-sensor multi-target filtering algorithm based on the cubature Kalman filter scheme and multiple heterogeneous sensors is proposed. Then, the state estimations obtained by the filtering algorithm are used to design a time-varying formation tracking protocol for multiagent, enabling multiagent to form a time-varying formation and track the convex combination of targets. Finally, the effectiveness of the proposed algorithm is illustrated by simulation experiments.
 #        url: false
 
-  - title: 戚佳琳,张政,李清东,董希旺,蒋宏,任章,韩亮,于江龙,化永朝, ”基于PLKF的异质传感器分布式协同探测方法[J]”.战术导弹技术.
-    url: false
+  - title: Title that can jump
+    url: https://google.com
 
   - title: Yu Sun,Jialin Qi ,Zheng Zhang ,Hong Jiang,Xiwang Dong, Qingdong Li, Zhang Ren, ”带有事件触发器的强跟踪容积卡尔曼分布式估计”， International Conference on Guidance, Navigation and Control
     url: false
