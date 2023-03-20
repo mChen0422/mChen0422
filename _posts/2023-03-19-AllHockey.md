@@ -14,4 +14,4 @@ A responsive website by utilizing PHP, HTML, CSS and MySQL to display popular ho
 3. Created logistic regressions using historical game records in SQL stored procedures to predict winning percentages
 
 ## Demo:
-![Vote for player](https://github.com/mChen0422/All-Hockey/blob/main/AllHockey.gif)
+![Demo](/assets/images/project/AllHockey.gif)
