@@ -12,21 +12,21 @@ navbar_entries:
 # 项目放块列表 标题，跳转地址，描述。对应projects那块。也可以无限添加。保持格式一致就可以，可以添加highlight树型，为高亮标签
 project_entries:
   - title: Newswipe
-    url: /ns
+    url: /Newswipe
     desc: Java | Android | MVVM Pattern | Room Database | Retrofit
 
-  - title: project demo 004
-    url: /p01
-    desc: project demo 004 desc
+  - title: All Hockey
+    url: /AllHockey
+    desc: MySQL | PHP | HTML | SQL Stored Procedures
     
-  - title: project demo 003
-    url: /p01
-    desc: project demo 003 desc
+  - title: Find Apps
+    url: /Find Apps
+    desc: Go | ReactJs | Google Cloud | ElasticSearch | JSON Web Token
     
-  - title: project demo 002
-    url: /p01
-    desc: project demo 002 desc
-    highlight: WIP
+  - title: Order Now
+    url: /Order Now
+    desc: Java | Spring MVC | Spring security | Hibernate | ReactJs | AWS EC2 | Docker
+    
 
 # 和projects类似，写法一样，对应页面paper那块。在总的配置文件里可以设置这块包括其他模块的显示与隐藏
 old_project_entries:
