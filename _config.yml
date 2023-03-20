@@ -5,11 +5,13 @@ avatar: "/assets/images/index/3991679259343_.pic.jpg" # relative path to site's 
 
 top_title: >
     mtchen0422@outlook.com </br>
-    John Hopkins Master’s Graduate | Software Development | Quantitative Software Engineering | Java | Python | Web Applications | MySQL </br>
-    Seeking a full-time software developer position from June 2023 </br>
+    https://www.linkedin.com/in/meitong-chenjhu/ </br>
+    
 
+description: > # description of the site (multiple lines allowed)
+John Hopkins Master’s Graduate | Software Development | Quantitative Software Engineering | Java | Python | Javascript | ReactJs | PHP | MySQL | Web Applications | Andriod Applications </br>
+Seeking a full-time software developer position from June 2023 </br>
 
-#description: > # description of the site (multiple lines allowed)
     
 permalink: /:slug
 
