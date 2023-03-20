@@ -3,9 +3,6 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: project
-    url: blog
-
   - title: github
     url: https://github.com/mChen0422
 
