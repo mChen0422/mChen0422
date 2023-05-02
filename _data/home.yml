@@ -8,6 +8,10 @@ navbar_entries:
 
 # 项目放块列表 标题，跳转地址，描述。对应projects那块。也可以无限添加。保持格式一致就可以，可以添加highlight树型，为高亮标签
 project_entries:
+  - title: urLibrary
+    url: /urLibrary
+    desc: Python | AngularJs | MongoDB | Flask 
+    
   - title: Newswipe
     url: /newswipe
     desc: Java | Android | MVVM Pattern | Room Database | Retrofit
