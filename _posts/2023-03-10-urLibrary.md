@@ -15,4 +15,4 @@ Python-based online library web application with Angular as the front end, Flask
 ## Demo:
 
 
-![Demo](/assets/images/project/urLiibrary.gif)
+![Demo](/assets/images/project/urLibraryDemo.gif)
